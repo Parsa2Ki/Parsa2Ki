@@ -1,22 +1,24 @@
-<h1 align="center">Â° Hi Unknown Â° Â° ParSa 2Ki Â°</h1>
-<h3 align="center">I am Programmer , i from iran</h3>
+# 💫 About Me:
+° Hello Unknown °<br><br>° RealName = ParSa ShekaRi ° localhost:98 °<br><br>° Code My Life In Css °<br>/*2Ki-Life{<br>Background-Color: #000000;<br>Color: #000000;<br>Margin: 0px;<br>Padding: 0px;<br>Border: 1px black solid;<br>Border-radius: 10px;<br>}*/<br><br>° Code My Life In HTML °<br><!-- <p> Broken </p> --><br><br>° Code My Life In Lua Or Python °<br>Lua = -- print (" Broken 💔 ")<br>Python = # print (" Broken 💔 ")
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=parsa2ki&label=Profile%20views&color=0e75b6&style=flat" alt="parsa2ki" /> </p>
 
-- Â° My Project Â° [Peack MTA [ MTA Server ]](https://t.me/PeackMTA)
+## 🌐 Socials:
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ParSa2Ki) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khode2ki@gmail.com) 
 
-- ðŸ“« How to reach me **khode2ki@gmail.com**
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=plastic&logo=lua&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ParSa2Ki&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ParSa2Ki&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ParSa2Ki&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-- âš¡ Fun fact **Programming is not worth it ðŸ˜—**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ParSa2Ki&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.youtube.com/c/parsa2ki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="parsa2ki" height="30" width="40" /></a>
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+[![](https://visitcount.itsvg.in/api?id=ParSa2Ki&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parsa2ki&show_icons=true&locale=en&layout=compact" alt="parsa2ki" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parsa2ki&show_icons=true&locale=en" alt="parsa2ki" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
