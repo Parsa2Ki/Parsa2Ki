@@ -1,5 +1,5 @@
 # 💫 About Me:
-° Hello Unknown °<br><br>° RealName = ParSa ShekaRi ° localhost:98 °<br><br>° Code My Life In Css °<br>/*2Ki-Life{<br>Background-Color: #000000;<br>Color: #000000;<br>Margin: 0px;<br>Padding: 0px;<br>Border: 1px black solid;<br>Border-radius: 10px;<br>}*/<br><br>° Code My Life In HTML °<br><!-- <p> Broken </p> --><br><br>° Code My Life In Lua Or Python °<br>Lua = -- print (" Broken 💔 ")<br>Python = # print (" Broken 💔 ")
+° Hello Unknown °<br><br>° RealName = ParSa ShekaRi ° localhost:98 °<br><br>° Code My Life In Css °<br>/*2Ki-Life{<br>Background-Color: #000000;<br>Color: #000000;<br>Margin: 0px;<br>Padding: 0px;<br>Border: 1px black solid;<br>Border-radius: 10px;<br>}*/<br><br>° Code My Life In HTML °<br> < !- - <p> Broken </p> - - ><br><br>° Code My Life In Lua Or Python °<br>Lua = -- print (" Broken 💔 ")<br>Python = # print (" Broken 💔 ")
 
 
 ## 🌐 Socials:
