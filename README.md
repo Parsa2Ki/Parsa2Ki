@@ -6,7 +6,7 @@
 
 **I love coding.**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=C%2B%2B+Developer;Web+Enthusiast;Always+Learning+New+Things;Welcome+to+my+Profile!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Lua+Developer;Web+Enthusiast;Always+Learning+New+Things;Welcome+to+my+Profile!" alt="Typing SVG" />
 
 </div>
 
