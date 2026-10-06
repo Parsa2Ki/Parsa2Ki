@@ -56,42 +56,4 @@
 
 </div>
 
----
-
-<div align="center">
-
-## 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=Parsa2Ki&theme=darkhub&no-frame=false&no-bg=true&margin-w=4&column=7" />
-
-</div>
-
----
-
-<div align="center">
-
-## 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Parsa2Ki&bg_color=000000&color=FF0000&line=FF0000&point=FFFFFF&area=true&hide_border=false" />
-
-</div>
-
----
-
-<div align="center">
-
-### 👀 Profile Views
-
-![Visitor Count](https://komarev.com/ghpvc/?username=Parsa2Ki&label=Profile%20Views&color=FF0000&style=for-the-badge)
-
----
-
-### 💬 Quote
-
-> *"Code is like humor. When you have to explain it, it's bad."* — Cory House
-
----
-
-⭐️ **From [Parsa2Ki](https://github.com/Parsa2Ki)** — *Keep Coding, Keep Growing* 🚀
-
 </div>
